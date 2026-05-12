@@ -71,3 +71,7 @@ public:
 };
 
 int main() 
+{
+    Stack stack;
+    
+}    
