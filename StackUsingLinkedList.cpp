@@ -103,6 +103,16 @@ int main()
                 cout << "Stack is empty." << endl;
             }
             break;
+        case 3:
+            if (!stack.isEmpty())
+            {
+                s.peek();
+            }
+            else
+            {
+                cout << "Stack is empty." << endl;
+            }
+            break;
        }
     }
 };
