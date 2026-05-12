@@ -113,6 +113,13 @@ int main()
                 cout << "Stack is empty." << endl;
             }
             break;
-       }
+
+        case 4:
+            cout << "Exiting..." << endl;
+            break;
+        default:
+            cout << "Invalid choice." << endl;  
+            break;
+        }
     }
 };
