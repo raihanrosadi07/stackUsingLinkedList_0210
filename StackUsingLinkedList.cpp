@@ -121,5 +121,9 @@ int main()
             cout << "Invalid choice." << endl;  
             break;
         }
+        cout << endl;
+
     }
-};
+    return 0;
+
+};   
