@@ -45,4 +45,5 @@ public:
         cout << "Popped value: " << temp->data << endl;
     }
 
-};
+    void peek() 
+    
